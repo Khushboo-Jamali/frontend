@@ -1,4 +1,6 @@
-let nav = (document.querySelector("div").innerHTML = `    <div class="sidebar">
+let nav = (document.querySelector(
+  "div"
+).innerHTML = `    <div class="sidebar sidebargo">
         <nav>
           <ul>
             <li><a href="/">Home</a></li>
